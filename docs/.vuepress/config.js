@@ -20,14 +20,14 @@ module.exports = {
         items: [
         ],
       },
-      {
-        text: '理财',
-        link: '/archives/',
-        items: [
-          { text: '基金', link: '/categories/' },
-          { text: 'DeFi', link: '/tags/' }
-        ],
-      },
+      // {
+      //   text: '理财',
+      //   link: '/archives/',
+      //   items: [
+      //     { text: '基金', link: '/categories/' },
+      //     { text: 'DeFi', link: '/tags/' }
+      //   ],
+      // },
       {
         text: '更多',
         link: '/more/',

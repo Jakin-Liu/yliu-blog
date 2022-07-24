@@ -9,7 +9,7 @@ tagline: WEB后端技术博客，未来的你会感谢现在努力的自己。
 
 features: # 可选的
   - title: 后端
-    details: Node.js、Java、K8S等后端技术
+    details: Node.js、Python、K8S等后端技术
     link: /web/ # 可选
     imgUrl: /img/web.png # 可选
   - title: 页面
